@@ -1,11 +1,13 @@
 # crime-and-criminal-tracking-system
-#Overview
+
+
+## overview
 
 
 crime and criminal system is a system that allows a police officer to register all the residents in a specific county where there names,national id,distric they live,the ward they live ,there village name  and the door number of the place they  live,all this data can be used when a crime occurs by following the history of the residents in the area and past crimes
 
 
-#Setup
+## Setup
 
 1 download the code
 
